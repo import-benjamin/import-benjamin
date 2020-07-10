@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Benjamin, I'm a DevOps Engineer at Orange & Student at IMT Lille-Douai.
+You will find some of my public works below :point_down: !
+
 <!--
 **benjaminBoboul/benjaminBoboul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
