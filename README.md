@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/follow-benjaminBoboul-1da1f2?style=plastic&logo=twitter&labelColor=282d33)](https://twitter.com/benjaminBoboul)
+[![](https://img.shields.io/badge/follow-benjaminBoboul-fc6d26?style=plastic&logo=gitlab&labelColor=282d33)](https://gitlab.com/benjaminBoboul)
+[![](https://img.shields.io/badge/follow-benjaminBoboul-0077b5?style=plastic&logo=linkedin&labelColor=282d33)](https://www.linkedin.com/in/benjaminboboul/)
+
 My name is Benjamin, I'm a DevOps Engineer at Orange & Student at IMT Lille-Douai.
 You will find some of my public works below :point_down: !
 
